@@ -1,31 +1,33 @@
-# Hi, I'm Aman Kumar
+# 👋 Hi, I'm Aman Kumar
 
-### Computer Science Student  
-### Full Stack Developer | DSA (C++) Learner
-
----
-
-## About Me
-- Engineering student specializing in **Computer Science & Engineering**  
-- Currently learning **DSA using C++**  
-- Exploring **Full Stack Development** (React, Node.js, PostgreSQL)  
-- Interested in problem-solving, scalable systems, and efficient development  
+### 🎓 Computer Science Student  
+### 💻 Full Stack Developer | 📘 DSA (C++) Learner
 
 ---
 
-## Skills
-**Languages:** C++, JavaScript, HTML, CSS  
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** PostgreSQL  
-**Tools:** Git, GitHub, VS Code, Postman  
-
---- 
-
-## Contact
-**Email:** aman.kum0104@gmail.com <br>
-**LinkedIn:** www.linkedin.com/in/amankr26
+## 📌 About Me
+- 🎓 Engineering student specializing in **Computer Science & Engineering**  
+- 📘 Currently learning **DSA using C++**  
+- 🌐 Exploring **Full Stack Development** (React, Node.js, PostgreSQL)  
+- ⚡ Interested in problem-solving, scalable systems, and efficient development  
 
 ---
 
-Thanks for visiting my profile.
+## 🛠️ Skills
+
+**💬 Languages:** C++, JavaScript, HTML, CSS  
+**🎨 Frontend:** React.js, Tailwind CSS  
+**⚙️ Backend:** Node.js, Express.js  
+**🗄️ Database:** PostgreSQL  
+**🧰 Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📫 Contact
+
+**📧 Email:** aman.kum0104@gmail.com  
+**🔗 LinkedIn:** www.linkedin.com/in/amankr26
+
+---
+
+Thanks for visiting my profile! 🤝

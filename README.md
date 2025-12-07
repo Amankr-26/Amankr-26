@@ -20,19 +20,12 @@
 **Database:** PostgreSQL  
 **Tools:** Git, GitHub, VS Code, Postman  
 
----
-
-## Projects
-- **QuickCart Compare** – Price comparison web app  
-- **WiFi Signal Strength Monitor** – Computer networks mini-project  
-- **Network Dashboard** – Web-based monitoring using Python/Flask  
-*(Will add more soon)*  
-
+--- 
 ---
 
 ## Contact
-**Email:** workwithaman26@gmail.com  
-**LinkedIn:** (add your link here)
+**Email:** aman.kum0104@gmail.com
+**LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 ---
 

@@ -25,7 +25,7 @@
 
 ## Contact
 **Email:** aman.kum0104@gmail.com
-**LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+**LinkedIn:** www.linkedin.com/in/amankr26
 
 ---
 

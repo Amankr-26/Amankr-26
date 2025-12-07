@@ -21,10 +21,9 @@
 **Tools:** Git, GitHub, VS Code, Postman  
 
 --- 
----
 
 ## Contact
-**Email:** aman.kum0104@gmail.com
+**Email:** aman.kum0104@gmail.com <br>
 **LinkedIn:** www.linkedin.com/in/amankr26
 
 ---

@@ -25,7 +25,7 @@
 
 ## 📫 Contact
 
-**📧 Email:** aman.kum0104@gmail.com  
+**📧 Email:** amankr.01x@gmail.com  
 **🔗 LinkedIn:** www.linkedin.com/in/amankr26
 
 ---
